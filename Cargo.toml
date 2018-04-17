@@ -1,0 +1,6 @@
+[package]
+name = "bfrs"
+version = "0.1.0"
+authors = ["Chalk <chalkpe@gmail.com>"]
+
+[dependencies]
